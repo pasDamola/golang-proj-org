@@ -1,0 +1,1 @@
+# A detailed, systematic approach of organizing projects/repository in golang
